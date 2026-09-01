@@ -1,4 +1,0 @@
-OU,GroupName,GroupPath
-"OU=Sales,DC=contoso,DC=com","GG-Sales-AllUsers","OU=Groups,DC=contoso,DC=com"
-"OU=Marketing,DC=contoso,DC=com","GG-Marketing-AllUsers","OU=Groups,DC=contoso,DC=com"
-"OU=IT,DC=contoso,DC=com","GG-IT-AllUsers",
